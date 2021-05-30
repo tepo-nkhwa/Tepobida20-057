@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+
+   <head>
+      <meta charset="utf-8">
+      <title>Moscow</title>
+   </head>
+	
+   <body>
+	
+
+	  
+	  
+		<h1>Touring The Moscow Krelim </h1>
+		
+		
+		<p>Moscow got a qualified tour guides who will walk you through the Moscow Krelim, these tour guides speak different kinds european laguages this is expected from them
+as their job expose them to tourists from all over the world. The Moscow Krelim is the		</p>
+			
+
+         
+      
+      <figure>
+        <img src="cars\mechanic.png" alt="TutorialPoint" width="200" height="100">
+      </figure>
+	  
+	  <h1>Shopping</h1>
+
+		<p>Just like any other city around the world</p>
+		
+		<figure>
+		  <img src="cars\lots.jpg" alt="TutorialPoint" width="200" height=100>
+		</figure>
+		
+      
+      <footer>
+         <p>Created by <a hre>KEABOKA</a></p>
+      </footer>
+		
